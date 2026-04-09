@@ -1,13 +1,13 @@
 @font-face {
   font-family: 'Cognito2024';
-  src: url('./Cognito2024.otf') format('opentype');
+  src: url('./Cognito2024.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Cognito2024';
-  src: url('./Cognito2024-Bold.otf') format('opentype');
+  src: url('./Cognito2024-Bold.woff2') format('woff2');
   font-weight: 700;
   font-style: normal;
 }
